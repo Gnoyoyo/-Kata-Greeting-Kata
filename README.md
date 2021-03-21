@@ -1,1 +1,1 @@
-# -Kata-Greeting-Kata
+# Kata-Greeting-Kata
